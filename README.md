@@ -11,7 +11,7 @@ Below is tour:
 
 * Starting at the command line, we begin the app by typing '$ node bamazoncustomer'
 
-![Bamazon image 1](https://msnodgr1.github.com/images/bam1.png)
+(https://msnodgr1.github.com/images/bam1.png)
 
 
 * Next, the table of products avaliable appears and the user is prompted to choose which item they would like to purchase by typing in the 'Item Id'.
