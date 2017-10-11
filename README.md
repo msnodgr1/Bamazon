@@ -31,4 +31,4 @@ If that quantity is available, the transaction completes, and the app closes.
 
 If the quantity is not avaialbe, the user is propmted again
 
-![Bamazon image 1](https://github.com/msnodgr1/images/bam5.png)
+![Bamazon image 1](https://github.com/msnodgr1/images/blob/master/bam5.PNG)
